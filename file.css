@@ -1,0 +1,84 @@
+
+
+
+
+.top-section{
+   /* background-color: rgb(249, 240, 244); */
+   background: linear-gradient(to right, #ff7e5f, #feb47b, #86a8e7, #91eae4)!important;
+   padding: 20px;
+   
+ 
+}
+
+.navbar-brand{
+   font-family: "Libre Baskerville", serif ;
+   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
+
+.navbar{
+   border-radius: 10px;
+}
+
+
+h2{
+   border-radius: 10px;
+  
+}
+
+h1,h2{
+    
+  font-family: "Libre Baskerville", serif;
+  font-weight: 700;
+  font-style: normal;   
+  text-align: center;
+  background: linear-gradient(to right, #ff7e5f, #feb47b, #86a8e7, #91eae4);
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+  
+  
+  
+}
+
+
+  
+ .carousel-item img{
+    height: 700px;
+ }
+
+ .carousel-item{
+    background-color: rgba(0, 0, 0, 0.5) !important; /* Background color with transparency */
+    /*padding: 20px !important;*/
+    font-size: large;
+
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Shadow with transparency */   
+ }
+ 
+
+ .who-elite-is-for{
+   display: flex;
+   justify-content: center;
+   text-align: center;
+   
+   
+  
+   
+ }
+
+ .who-elite-is-for img{
+   margin: 50px;
+   background-color: white;
+   border-radius: 10px;
+  
+ }
+
+ .categories{
+   text-wrap: wrap;
+ }
+
+ .school-categories{
+   background-color: #c9d7ef;
+   text-align: center;
+   font-size: 1.2rem;
+ }
+
+
+
